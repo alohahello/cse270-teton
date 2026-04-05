@@ -554,8 +554,8 @@
   "suites": [{
     "id": "aa82a66e-7f6f-49d2-a597-508f9f4c1888",
     "name": "Default Suite",
-    "persistSession": false,
-    "parallel": false,
+    "persistSession": False,
+    "parallel": False,
     "timeout": 300,
     "tests": ["5789e1e0-01f7-4b41-b53d-d04da317dd5c", "85f289e1-3a2a-4352-b30f-896a6884b789", "d8d14715-889a-4fd2-ae30-fc574e4a5a28", "0d2b6f4e-5cd5-4ef2-b193-d465c1049d84", "f870bc5f-a369-47f3-a6f8-1437454f24f9"]
   }],
